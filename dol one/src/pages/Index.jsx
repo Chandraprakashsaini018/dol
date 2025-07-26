@@ -406,7 +406,7 @@ function Index() {
           <div
             className="text-center mx-auto wow fadeInUp"
             data-wow-delay="0.1s"
-            style={{ maxWidth: 600 }}
+            style={{ maxWidth: 601 }}
           >
             <h1 className="display-6 text-uppercase mb-5">
               Meet Our Professional and Experience Welder
